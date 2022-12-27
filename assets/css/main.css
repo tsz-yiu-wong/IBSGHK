@@ -3431,10 +3431,10 @@ input, select, textarea {
 			opacity: 1;
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
 			font-size: 2.25em;
-			margin-left: 2em;
-			margin-right: 2em;
-			margin-bottom: 0.8em;
-			padding-bottom: 0.4em;
+			margin-left: 1em;
+			margin-right: 1em;
+			margin-bottom: 1em;
+			padding-bottom: 1em;
 		}
 
 		#banner p {
