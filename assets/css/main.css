@@ -3167,7 +3167,7 @@
 		background-image: url("images/trans60.png"), url("../../images/bg60.png");
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
-		background-size: auto, cover;
+		background-size: auto, 100%;
 		color: #fff;
 		padding: 12em 0 20em 0;
 		text-align: center;
