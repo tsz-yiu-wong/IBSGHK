@@ -133,7 +133,7 @@
 		}
 
 	strong, b {
-		color: #646464;
+		color: #ffffff;
 		font-weight: 400;
 	}
 
@@ -3167,7 +3167,7 @@
 		background-image: url("images/trans60.png"), url("../../images/bg60.png");
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
-		background-size: auto, 100%;
+		background-size: auto, cover;
 		color: #fff;
 		padding: 12em 0 20em 0;
 		text-align: center;
@@ -3217,10 +3217,11 @@
 				margin: 1em 0 0 0;
 				padding: 1em 0 1.25em 0;
 			}
-
+/*
 	body.landing #main {
 		margin-top: -14em;
 	}
+*/
 
 /* Footer */
 
