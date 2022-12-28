@@ -160,7 +160,6 @@
 	h2 {
 		font-size: 2.25em;
 		line-height: 1.5em;
-		letter-spacing: -0.035em;
 	}
 
 	h3 {
@@ -3169,7 +3168,7 @@
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
 		color: #fff;
-		padding: 12em 0 20em 0;
+		padding: 12em 0 12em 0;
 		text-align: center;
 	}
 
@@ -3182,15 +3181,16 @@
 		}
 
 		#banner h2 {
-			font-size: 3.5em;
+			font-size: 4em;
 			line-height: 1em;
-			margin: 0 0 0.5em 0;
+			margin: 0.8em 0 1.82em 0;
 			padding: 0;
 		}
 
 		#banner p {
-			font-size: 1.25em;
-			margin-bottom: 1.75em;
+			font-size: 1.4em;
+			line-height: 1.4;
+			margin: 0em 12em 0em 12em;
 		}
 
 /* Main */
