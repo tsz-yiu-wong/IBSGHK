@@ -3291,6 +3291,7 @@ input, select, textarea {
 		#menu h2 {
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
 			padding-bottom: 1em;
+			text-align: center;
 		}
 
 		#menu .close {
@@ -3305,7 +3306,6 @@ input, select, textarea {
 			overflow: hidden;
 			position: absolute;
 			right: 0;
-			text-align: center;
 			text-indent: 4em;
 			top: 0;
 			width: 4em;
@@ -3315,6 +3315,7 @@ input, select, textarea {
 			list-style: none;
 			margin-bottom: 1.5em;
 			padding: 0;
+			text-align: center;
 		}
 
 			#menu .links li {
@@ -4037,6 +4038,7 @@ input, select, textarea {
 			margin: 4em 0 2em 0;
 			padding: 2em 0 0 0;
 			width: 100%;
+			text-align: center;
 		}
 
 			#footer .inner .copyright li {
