@@ -3348,23 +3348,23 @@
 			}
 
 		#cta ::-webkit-input-placeholder {
-			color: rgba(255, 255, 255, 0.75) !important;
+			color: rgba(255, 255, 255, 1) !important;
 		}
 
 		#cta :-moz-placeholder {
-			color: rgba(255, 255, 255, 0.75) !important;
+			color: rgba(255, 255, 255, 1) !important;
 		}
 
 		#cta ::-moz-placeholder {
-			color: rgba(255, 255, 255, 0.75) !important;
+			color: rgba(255, 255, 255, 1) !important;
 		}
 
 		#cta :-ms-input-placeholder {
-			color: rgba(255, 255, 255, 0.75) !important;
+			color: rgba(255, 255, 255, 1) !important;
 		}
 
 		#cta .formerize-placeholder {
-			color: rgba(255, 255, 255, 0.75) !important;
+			color: rgba(255, 255, 255, 1) !important;
 		}
 
 /* Wide */
