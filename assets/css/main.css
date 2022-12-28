@@ -3429,8 +3429,9 @@ input, select, textarea {
 			opacity: 1;
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
 			font-size: 2.15em;
+			margin-top: 1.5em;
 			margin-bottom: 1.5em;
-			padding-bottom: 1.5em;
+			padding-bottom: 1em;
 		}
 
 		#banner p {
@@ -3456,9 +3457,7 @@ input, select, textarea {
 			font-weight: 200;
 			letter-spacing: 0.1em;
 			line-height: 2;
-			text-transform: none;
-			text-align: justify;
-			align-content: stretch;
+			margin-bottom: 1.5em;
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -3813,7 +3812,10 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				text-align: justify;
+			}
+
+			.wrapper.spotlight:nth-child(2n - 1) .inner p{
+				text-align: right;
 			}
 
 			.wrapper.spotlight:nth-child(2n - 1) .image {
