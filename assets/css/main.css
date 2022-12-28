@@ -3315,11 +3315,11 @@ input, select, textarea {
 			list-style: none;
 			margin-bottom: 1.5em;
 			padding: 0;
-			text-align: center;
 		}
 
 			#menu .links li {
 				padding: 0;
+				text-align: center;
 			}
 
 				#menu .links li a {
