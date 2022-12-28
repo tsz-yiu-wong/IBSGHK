@@ -3428,7 +3428,7 @@ input, select, textarea {
 			filter: blur(0);
 			opacity: 1;
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
-			font-size: 2.5em;
+			font-size: 2.35em;
 			margin-bottom: 1.5em;
 			margin-left: -1em;
 			margin-right: -1em;
@@ -3813,10 +3813,6 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-			}
-
-			.wrapper.spotlight:nth-child(2n - 1) .inner h2{
-				text-align: right;
 			}
 
 			.wrapper.spotlight:nth-child(2n - 1) .image {
