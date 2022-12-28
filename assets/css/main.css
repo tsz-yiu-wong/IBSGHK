@@ -3429,11 +3429,11 @@ input, select, textarea {
 			opacity: 1;
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
 			font-size: 2.35em;
-			margin-top: 1em;
+			margin-top: 1.25em;
 			margin-bottom: 1.75em;
 			margin-left: -1em;
 			margin-right: -1em;
-			padding-bottom: 1em;
+			padding-bottom: 0.5em;
 		}
 
 		#banner p {
@@ -3459,7 +3459,7 @@ input, select, textarea {
 			font-weight: 200;
 			letter-spacing: 0.1em;
 			line-height: 2;
-			margin-bottom: 3em;
+			margin-bottom: 4em;
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -4023,7 +4023,7 @@ input, select, textarea {
 		}
 
 		#footer .inner form {
-			margin: 0 10em 0 0;
+			margin: 0 7em 0 0;
 			width: calc(50% - 1.5em);
 		}
 
