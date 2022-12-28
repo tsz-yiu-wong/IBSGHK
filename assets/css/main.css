@@ -4023,12 +4023,12 @@ input, select, textarea {
 		}
 
 		#footer .inner form {
-			margin: 0 7em 0 0;
-			width: calc(50% - 1.5em);
+			margin: 0 6em 0 0;
+			width: calc(60% - 1.5em);
 		}
 
 		#footer .inner .contact {
-			width: calc(50% - 1.5em);
+			width: calc(40% - 5.5em);
 		}
 
 		#footer .inner .copyright {
