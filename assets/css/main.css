@@ -2050,7 +2050,7 @@
 
 		header.major p {
 			display: inline-block;
-			border-top: solid 2px #e5e5e5;
+			border-bottom: solid 2px #e5e5e5;
 			color: rgb(0, 0, 0);
 			margin: 1.5em 0 0 0;
 			padding: 1.5em 0 0 0;
