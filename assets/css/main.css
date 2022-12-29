@@ -2960,18 +2960,13 @@
 		#header h1 {
 			color: inherit;
 			height: inherit;
-			left: 3.25em;
+			left: 1.25em;
 			line-height: inherit;
 			margin: 0;
 			padding: 0;
 			position: absolute;
 			top: 0;
 		}
-
-		#header.reveal h1 {
-			left: 1.25em;
-		}
-
 
 			#header h1 a {
 				color: #fff;
@@ -2983,13 +2978,9 @@
 			height: inherit;
 			line-height: inherit;
 			position: absolute;
-			right: 3.75em;
+			right: 0.75em;
 			top: 0;
 			vertical-align: middle;
-		}
-
-		#header.reveal nav {
-			right: 0.75em;
 		}
 
 			#header nav > ul {
@@ -3091,7 +3082,16 @@
 			color: rgba(255, 255, 255, 0.75);
 			position: absolute;
 			top: 2em;
+			font-size: 1.25em;
 		}
+
+			#header.alt h1 {
+				left: 3.25em;
+			}
+			
+			#header.alt nav {
+				right: 3.75em;
+			}
 
 			#header.alt nav > ul > li a:not(.button).icon:before {
 				color: rgba(255, 255, 255, 0.75);
