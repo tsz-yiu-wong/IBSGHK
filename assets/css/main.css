@@ -150,7 +150,7 @@
 		color: #000000;
 		font-weight: bold;
 		line-height: 1em;
-		margin: 0 0 0.5em 0;
+		margin: 1 0 0.5em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -687,8 +687,7 @@
 						}
 
 				.row {
-					margin-top: 0;
-					margin-left: 0;
+					margin: 0 -2.5em -3em -2.5em;
 				}
 
 					.row > * {
@@ -932,8 +931,7 @@
 						}
 
 				.row {
-					margin-top: 0;
-					margin-left: 0;
+					margin: 0 -2em -4em -2em;
 				}
 
 					.row > * {
@@ -2341,23 +2339,22 @@
 		.box .image.featured {
 			border-radius: 0;
 			display: block;
-			margin: 0 -1em 0 -1em;
+			margin: -1em -0.5em 1.5em -0.5em;
 			position: relative;
-			width: calc(100% + 2em);
+			width: calc(100% + 1em);
 		}
 
 			.box .image.featured img {
-				border-radius: 0;
+				border-radius: 6px;
 				display: block;
 				width: 100%;
 			}
-
+/*
 			.box .image.featured:first-child {
 				border-radius: 0;
 				margin-bottom: 3em;
 				margin-top: -1em;
 			}
-
 				.box .image.featured:first-child img {
 					border-radius: 6px 6px 0 0;
 				}
@@ -2371,6 +2368,7 @@
 				.box .image.featured:last-child img {
 					border-radius: 0 0 6px 6px;
 				}
+*/
 
 /* Icon */
 
@@ -3201,7 +3199,7 @@
 			font-size: 1.3em;
 			line-height: 1.4;
 			color: rgb(255, 255, 255);
-			margin: 0em 12em 0em 12em;
+			margin: 0em 18% 0em 18%;
 		}
 
 /* Main */
@@ -3448,20 +3446,6 @@
 					padding: 3em 2em;
 				}
 
-				.box .image.featured {
-					margin-left: -2em;
-					width: calc(100% + 4em);
-				}
-
-					.box .image.featured:first-child {
-						margin-bottom: 3em;
-						margin-top: -3em;
-					}
-
-					.box .image.featured:last-child {
-						margin-bottom: -3em;
-						margin-top: 3em;
-					}
 
 		/* Header */
 
@@ -3701,20 +3685,7 @@
 						padding-top: 0 !important;
 					}
 
-				.box .image.featured {
-					margin-left: -2em;
-					width: calc(100% + 4em);
-				}
 
-					.box .image.featured:first-child {
-						margin-bottom: 2em;
-						margin-top: -2em;
-					}
-
-					.box .image.featured:last-child {
-						margin-bottom: -2em;
-						margin-top: 2em;
-					}
 
 		/* Banner */
 
@@ -3840,23 +3811,14 @@
 
 				.box .image.featured {
 					border-radius: 0;
-					margin-left: -1em;
-					width: calc(100% + 2em);
+					margin: -1em -0.5em 0 -0.5em;
+					width: calc(100% + 1em);
 				}
 
 					.box .image.featured img {
 						border-radius: 0 !important;
 					}
 
-					.box .image.featured:first-child {
-						margin-bottom: 3em;
-						margin-top: -3em;
-					}
-
-					.box .image.featured:last-child {
-						margin-bottom: -3em;
-						margin-top: 3em;
-					}
 
 		/* Banner */
 
