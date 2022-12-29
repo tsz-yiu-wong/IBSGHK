@@ -110,7 +110,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #777;
+		color: rgb(0, 0, 0);
 		font-family: "Source Sans Pro", sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
@@ -132,7 +132,7 @@
 		}
 
 	strong, b {
-		font-weight: 400;
+		font-weight: bold;
 	}
 
 	em, i {
@@ -141,14 +141,17 @@
 
 	p {
 		margin: 0 0 2em 0;
+		font-size: 1.2em;
+		color: rgb(0, 0, 0);
 		text-align: justify;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #000000;
-		font-weight: 300;
+		font-weight: bold;
 		line-height: 1em;
 		margin: 0 0 0.5em 0;
+		text-align: left;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2046,14 +2049,16 @@
 
 		header.major h2 {
 			margin: 0;
+			text-align: left;
+			font-weight: bold;
 		}
 
 		header.major p {
 			display: inline-block;
 			border-bottom: solid 2px #e5e5e5;
 			color: rgb(0, 0, 0);
-			margin: 1.5em 0 0 0;
-			padding: 1.5em 0 0 0;
+			margin: 0 0 2.5em 0;
+			padding: 0.5em 0 1.5em 0;
 			font-style: normal;
 		}
 
@@ -3180,6 +3185,7 @@
 			line-height: 1em;
 			margin: 0.8em 0 1.82em 0;
 			padding: 0;
+			text-align: center;
 		}
 
 		#banner p {
