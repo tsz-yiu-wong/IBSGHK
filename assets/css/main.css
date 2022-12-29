@@ -2973,6 +2973,7 @@
 			right: 0.75em;
 			top: 0;
 			vertical-align: middle;
+			font-family:'Courier New', Courier, monospace ;
 		}
 
 			#header nav > ul {
@@ -3195,7 +3196,7 @@
 		}
 
 		#banner p {
-			font-size: 1.2em;
+			font-size: 1.3em;
 			line-height: 1.4;
 			color: rgb(255, 255, 255);
 			margin: 0em 12em 0em 12em;
