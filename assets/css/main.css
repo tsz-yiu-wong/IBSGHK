@@ -445,11 +445,11 @@
 
 		.row {
 			margin-top: 0;
-			margin-left: -2em;
+			margin-left: 0;
 		}
 
 			.row > * {
-				padding: 0 0 0 2em;
+				padding: 0;
 			}
 
 			.row.gtr-uniform {
@@ -688,11 +688,11 @@
 
 				.row {
 					margin-top: 0;
-					margin-left: -2em;
+					margin-left: 0;
 				}
 
 					.row > * {
-						padding: 0 0 0 2em;
+						padding: 0;
 					}
 
 					.row.gtr-uniform {
@@ -933,11 +933,11 @@
 
 				.row {
 					margin-top: 0;
-					margin-left: -2em;
+					margin-left: 0;
 				}
 
 					.row > * {
-						padding: 0 0 0 2em;
+						padding: 0;
 					}
 
 					.row.gtr-uniform {
@@ -2341,9 +2341,9 @@
 		.box .image.featured {
 			border-radius: 0;
 			display: block;
-			margin: 3em 0 3em -3em;
+			margin: 0 -1em 0 -1em;
 			position: relative;
-			width: calc(100% + 6em);
+			width: calc(100% + 2em);
 		}
 
 			.box .image.featured img {
@@ -2353,9 +2353,9 @@
 			}
 
 			.box .image.featured:first-child {
-				border-radius: 6px 6px 0 0;
+				border-radius: 0;
 				margin-bottom: 3em;
-				margin-top: -3em;
+				margin-top: -1em;
 			}
 
 				.box .image.featured:first-child img {
@@ -2976,7 +2976,6 @@
 			right: 0.75em;
 			top: 0;
 			vertical-align: middle;
-			font-family:'Courier New', Courier, monospace ;
 		}
 
 			#header nav > ul {
