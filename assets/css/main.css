@@ -3081,7 +3081,7 @@
 			background: none;
 			color: rgba(255, 255, 255, 0.75);
 			position: absolute;
-			top: 2em;
+			top: 1.3em;
 			font-size: 1.25em;
 		}
 
@@ -3207,7 +3207,7 @@
 		#banner h2 {
 			font-size: 4em;
 			line-height: 1em;
-			margin: 0.8em 0 1.82em 0;
+			margin: 1.8em 0 1.8em 0;
 			padding: 0;
 			text-align: center;
 		}
@@ -3376,7 +3376,7 @@
 		/* Banner */
 
 			#banner {
-				padding: 10em 0 18em 0;
+				padding: 10em 0 17em 0;
 			}
 
 	}
