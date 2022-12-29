@@ -198,7 +198,7 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 2px #e5e5e5;
+		border-bottom: solid 2px #000000;
 		margin: 2em 0;
 	}
 
@@ -2055,7 +2055,7 @@
 
 		header.major p {
 			display: inline-block;
-			border-bottom: solid 2px #bababa;
+			border-bottom: solid 1px #bababa;
 			color: rgb(0, 0, 0);
 			margin: 0 0 2.5em 0;
 			padding: 0.5em 0 2.5em 0;
@@ -2064,6 +2064,8 @@
 
 		header.major p:last-child {
 			border-bottom: 0;
+			margin: 0;
+    		padding: 0.5em 0 0 0;
 		}
 
 /* Form */
