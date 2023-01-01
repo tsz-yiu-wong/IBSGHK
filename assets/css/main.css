@@ -2915,7 +2915,7 @@
 
 	@-moz-keyframes reveal-header {
 		0% {
-			top: -5em;
+			top: -1em;
 		}
 
 		100% {
@@ -2925,7 +2925,7 @@
 
 	@-webkit-keyframes reveal-header {
 		0% {
-			top: -5em;
+			top: -1em;
 		}
 
 		100% {
@@ -2935,7 +2935,7 @@
 
 	@-ms-keyframes reveal-header {
 		0% {
-			top: -5em;
+			top: -1em;
 		}
 
 		100% {
@@ -2945,7 +2945,7 @@
 
 	@keyframes reveal-header {
 		0% {
-			top: -5em;
+			top: -1em;
 		}
 
 		100% {
