@@ -9,8 +9,8 @@
 
 /* Reset */
 @font-face {
-	font-family: "Sanomat Web Regular Regular";
-	src: url("font/Sanomat_Web/Sanomat\ Web\ Regular\ Regular.eot"); /* IE9*/
+	font-family: "Sanomat Web Regular";
+	src: url("font/Sanomat_Web/Sanomat_Web.eot"); /* IE9*/
 	/*src: url("font/Sanomat_Web/Sanomat\ Web\ Regular\ Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
 	/*url("font/Sanomat_Web/Sanomat\ Web\ Regular\ Regular.woff2") format("woff2"), /* chrome、firefox */
 	/*url("font/Sanomat_Web/Sanomat\ Web\ Regular\ Regular.woff") format("woff"), /* chrome、firefox */
@@ -36,7 +36,7 @@
 		border: 0;
 		font-size: 100%;
 		font: inherit;
-		font-family: "Sanomat Web Regular Regular" serif;
+		font-family: "Sanomat Web Regular" serif;
 		vertical-align: baseline;
 	}
 
