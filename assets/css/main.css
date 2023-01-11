@@ -36,7 +36,8 @@
 		border: 0;
 		font-size: 100%;
 		font: inherit;
-		font-family: "Sanomat Web Regular" serif;
+		/*font-family: "Sanomat Web Regular" serif;*/
+		font-family: "Times New Roman",Georgia,Serif;
 		vertical-align: baseline;
 	}
 
