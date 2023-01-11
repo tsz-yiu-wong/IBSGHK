@@ -2493,7 +2493,7 @@
 
 		.image.fit {
 			display: block;
-			margin: 0 0 2em 0;
+			margin: 0 0 1em 0;
 			width: 100%;
 		}
 
@@ -2505,11 +2505,61 @@
 			.image.fit p {
 				font-size: 1em;
 				text-align: center;
+				margin: 0;
 			}
 
 			.image.fit sub {
 				font-size: 1em;
 				font-style: italic;
+				top: 0;
+			}
+
+		.image.fit70 {
+			display: block;
+			margin: auto;
+			margin-bottom: 1em;
+			width: 70%;
+		}
+
+			.image.fit70 img {
+				display: block;
+				width: 100%;
+			}
+			
+			.image.fit70 p {
+				font-size: 1em;
+				text-align: center;
+				margin: 0;
+			}
+
+			.image.fit70 sub {
+				font-size: 1em;
+				font-style: italic;
+				top: 0;
+			}
+
+		.image.fit50 {
+			display: block;
+			margin: auto;
+			margin-bottom: 1em;
+			width: 50%;
+		}
+
+			.image.fit50 img {
+				display: block;
+				width: 100%;
+			}
+			
+			.image.fit50 p {
+				font-size: 1em;
+				text-align: center;
+				margin: 0;
+			}
+
+			.image.fit50 sub {
+				font-size: 1em;
+				font-style: italic;
+				top: 0;
 			}
 
 /* List */
