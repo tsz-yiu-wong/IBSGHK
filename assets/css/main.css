@@ -150,7 +150,7 @@
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 0.5em 0;
 		font-size: 1.2em;
 		color: rgb(0, 0, 0);
 		text-align: justify;
@@ -2065,8 +2065,8 @@
 			display: inline-block;
 			border-bottom: solid 1px #bababa;
 			color: rgb(0, 0, 0);
-			margin: 0 0 2.5em 0;
-			padding: 0.5em 0 2.5em 0;
+			margin: 0 0 1.5em 0;
+			padding: 0.5em 0 1.5em 0;
 			font-style: normal;
 		}
 
