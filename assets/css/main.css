@@ -2514,25 +2514,25 @@
 				top: 0;
 			}
 
-		.image.fit70 {
+		.image.fit75 {
 			display: block;
 			margin: auto;
 			margin-bottom: 1em;
 			width: 70%;
 		}
 
-			.image.fit70 img {
+			.image.fit75 img {
 				display: block;
 				width: 100%;
 			}
 			
-			.image.fit70 p {
+			.image.fit75 p {
 				font-size: 1em;
 				text-align: center;
 				margin: 0;
 			}
 
-			.image.fit70 sub {
+			.image.fit75 sub {
 				font-size: 1em;
 				font-style: italic;
 				top: 0;
