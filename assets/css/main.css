@@ -154,14 +154,13 @@
 		font-size: 1.2em;
 		color: rgb(0, 0, 0);
 		text-align: justify;
-		line-height: 1.5em;
+		line-height: 1.7em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #000000;
 		font-weight: bold;
 		line-height: 1em;
-		margin: 1em 0 0.5em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -172,30 +171,35 @@
 	h2 {
 		font-size: 2.25em;
 		line-height: 1.5em;
+		margin: 1em 0 0.9em 0;
 	}
 
 	h3 {
 		font-size: 1.75em;
 		line-height: 1.5em;
 		text-align: left;
+		margin: 1em 0 0.7em 0;
 	}
 
 	h4 {
 		font-size: 1.5em;
 		line-height: 1.5em;
 		text-align: left;
+		margin: 1em 0 0.5em 0;
 	}
 
 	h5 {
 		font-size: 1.3em;
 		line-height: 1.5em;
 		text-align: left;
+		margin: 1em 0 0.5em 0;
 	}
 
 	h6 {
 		font-size: 1.0em;
 		line-height: 1.5em;		
 		text-align: left;
+		margin: 1em 0 0.5em 0;
 	}
 
 	sub {
