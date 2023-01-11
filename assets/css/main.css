@@ -2501,6 +2501,16 @@
 				display: block;
 				width: 100%;
 			}
+			
+			.image.fit p {
+				font-size: 1em;
+				text-align: center;
+			}
+
+			.image.fit sub {
+				font-size: 1em;
+				font-style: italic;
+			}
 
 /* List */
 
