@@ -2562,26 +2562,26 @@
 				top: 0;
 			}
 		
-		.image.fit25 {
+		.image.fit30 {
 			display: block;
 			margin: auto;
 			margin-bottom: 1em;
-			width: 25%;
+			width: 30%;
 		}
 
-			.image.fit25 img {
+			.image.fit30 img {
 				display: block;
 				width: 100%;
 			}
 			
-			.image.fit25 p {
-				font-size: 1em;
+			.image.fit30 p {
+				font-size: 0.8em;
 				text-align: center;
 				margin: 0;
 			}
 
-			.image.fit25 sub {
-				font-size: 1em;
+			.image.fit30 sub {
+				font-size: 0.8em;
 				font-style: italic;
 				top: 0;
 			}
