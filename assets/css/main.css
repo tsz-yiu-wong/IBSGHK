@@ -3304,6 +3304,40 @@
 	}
 */
 
+/* Cover */
+#cover {
+	background-attachment: scroll, fixed;
+	background-color: #666;
+	background-image: url("images/overlay.png"), url("../../images/bg60.png");
+	background-position: top left, center center;
+	background-repeat: repeat, no-repeat;
+	background-size: auto, cover;
+	color: #fff;
+	padding: 12em 0 15em 0;
+	text-align: center;
+}
+
+	#cover :last-child {
+		margin-bottom: 0;
+	}
+
+	#cover h2, #cover h3, #cover h4, #cover h5, #cover h6, #cover p {
+		color: #fff;
+	}
+
+	#cover h2 {
+		font-size: 4em;
+		line-height: 1em;
+		margin: 1.8em 0 1.8em 0;
+		padding: 0;
+		text-align: center;
+	}
+
+	#cover p {
+		font-size: 1.3em;
+		line-height: 1.4;
+		margin: 0em 18% 0em 18%;
+	}
 
 /* Content */
 	.content p a {
@@ -3475,7 +3509,7 @@
 		/* Banner */
 
 			#banner {
-				background-attachment: scroll;
+				background-image: url("images/overlay.png"), url("../../images/bg60-2.png")
 			}
 
 				#banner h2 {
