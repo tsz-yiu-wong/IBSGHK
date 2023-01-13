@@ -2548,9 +2548,12 @@
 /* List */
 
 	ol {
-		list-style: decimal;
-		margin: 0 0 2em 0;
-		padding-left: 1.25em;
+		list-style: lower-alpha;
+		margin: 0 0 1em 0;
+		padding-left: 2em;
+
+		font-size: 1.2em;
+		line-height: 1.7em;
 	}
 
 		ol li {
@@ -2559,12 +2562,15 @@
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2em 0;
-		padding-left: 1em;
+		margin: 0 0 1em 0;
+		padding-left: 2em;
+		
+		font-size: 1.2em;
+		line-height: 1.7em;
 	}
 
 		ul li {
-			padding-left: 0.5em;
+			padding-left: 0.25em;
 		}
 
 		ul.alt {
