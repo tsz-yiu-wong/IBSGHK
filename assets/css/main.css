@@ -2551,26 +2551,24 @@
 		list-style: lower-alpha;
 		margin: 0 0 1em 0;
 		padding-left: 2em;
-
-		font-size: 1.2em;
-		line-height: 1.7em;
 	}
 
 		ol li {
 			padding-left: 0.25em;
+			font-size: 1.2em;
+			line-height: 1.7em;
 		}
 
 	ul {
 		list-style: disc;
 		margin: 0 0 1em 0;
 		padding-left: 2em;
-		
-		font-size: 1.2em;
-		line-height: 1.7em;
 	}
 
 		ul li {
 			padding-left: 0.25em;
+			font-size: 1.2em;
+			line-height: 1.7em;
 		}
 
 		ul.alt {
@@ -3359,11 +3357,6 @@
 
 	#content ol {
 		margin: 0;
-	}
-	
-	#content li {
-		font-size: 1em;
-		line-height: 1.7em;
 	}
 
 
