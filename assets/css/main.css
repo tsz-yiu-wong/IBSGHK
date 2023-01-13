@@ -2514,73 +2514,97 @@
 				top: 0;
 			}
 
-		.image.fit75 {
+		.image.fit80 {
 			display: block;
 			margin: auto;
 			margin-bottom: 1em;
-			width: 70%;
+			width: 80%;
 		}
 
-			.image.fit75 img {
+			.image.fit80 img {
 				display: block;
 				width: 100%;
 			}
 			
-			.image.fit75 p {
+			.image.fit80 p {
 				font-size: 1em;
 				text-align: center;
 				margin: 0;
 			}
 
-			.image.fit75 sub {
+			.image.fit80 sub {
 				font-size: 1em;
 				font-style: italic;
 				top: 0;
 			}
 
-		.image.fit50 {
+		.image.fit60 {
 			display: block;
 			margin: auto;
 			margin-bottom: 1em;
-			width: 50%;
+			width: 60%;
 		}
 
-			.image.fit50 img {
+			.image.fit60 img {
 				display: block;
 				width: 100%;
 			}
 			
-			.image.fit50 p {
+			.image.fit60 p {
 				font-size: 1em;
 				text-align: center;
 				margin: 0;
 			}
 
-			.image.fit50 sub {
+			.image.fit60 sub {
+				font-size: 1em;
+				font-style: italic;
+				top: 0;
+			}
+
+		.image.fit40 {
+			display: block;
+			margin: auto;
+			margin-bottom: 1em;
+			width: 40%;
+		}
+
+			.image.fit40 img {
+				display: block;
+				width: 100%;
+			}
+			
+			.image.fit40 p {
+				font-size: 1em;
+				text-align: center;
+				margin: 0;
+			}
+
+			.image.fit40 sub {
 				font-size: 1em;
 				font-style: italic;
 				top: 0;
 			}
 		
-		.image.fit30 {
+		.image.fit20 {
 			display: block;
 			margin: auto;
 			margin-bottom: 1em;
-			width: 30%;
+			width: 20%;
 		}
 
-			.image.fit30 img {
+			.image.fit20 img {
 				display: block;
 				width: 100%;
 			}
 			
-			.image.fit30 p {
+			.image.fit20 p {
 				font-size: 0.8em;
 				text-align: center;
 				margin: 0;
 			}
 
-			.image.fit30 sub {
+			.image.fit20 sub {
 				font-size: 0.8em;
 				font-style: italic;
 				top: 0;
