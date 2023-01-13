@@ -2525,18 +2525,18 @@
 			width: 20%;
 		}
 
-			.image.fit, .image.fit80, .image.fit60, .image.fit40, .image.fit20  img {
+			.image.fit img, .image.fit80 img, .image.fit60 img, .image.fit40 img, .image.fit20 img {
 				display: block;
 				width: 100%;
 			}
 			
-			.image.fit, .image.fit80, .image.fit60, .image.fit40, .image.fit20  p {
+			.image.fit p, .image.fit80 p, .image.fit60 p, .image.fit40 p, .image.fit20 p {
 				font-size: 1em;
 				text-align: center;
 				margin: 0;
 			}
 
-			.image.fit, .image.fit80, .image.fit60, .image.fit40, .image.fit20  sub {
+			.image.fit sub, .image.fit80 sub, .image.fit60 sub, .image.fit40 sub, .image.fit20 sub {
 				font-size: 0.8em;
 				font-style: italic;
 				top: 0;
