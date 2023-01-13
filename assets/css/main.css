@@ -3345,7 +3345,7 @@
 		margin: 0em 18% 0em 18%;
 	}
 
-	
+
 /* Content */
 	#content p {
 		margin: 0.4em 0 0 0;
@@ -3357,8 +3357,12 @@
 		font-size: 1.2em;
 	}
 
+	#content ol {
+		margin: 0;
+	}
+	
 	#content li {
-		font-size: 1.2em;
+		font-size: 1em;
 		line-height: 1.7em;
 	}
 
