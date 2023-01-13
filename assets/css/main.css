@@ -3341,24 +3341,28 @@
 
 /* Content */
 	.content p {
-		margin: 0.3em 0 0 0;
+		margin: 0.4em 0 0 0;
 	}
 
 	.content p a {
 		color: inherit;
 		text-decoration: none;
+		font-size: 1.2em;
 	}
 
 	.content li {
 		font-size: 1.2em;
-		margin: 0;
+		line-height: 1.7em;
+		margin: 0 0 0.3em 0;
 	}
 
 
 /* List */
 
-	.article.list li, .article.list ul li{
+	.article.list li, .article.list ul li{	
 		font-size: 1.2em;
+		line-height: 1.7em;
+		margin: 0 0 0.3em 0;
 	}
 
 /* Footer */
