@@ -3357,7 +3357,7 @@
 
 /* List */
 
-	.article.list li{
+	.article.list li, .article.list ul li{
 		font-size: 1.2em;
 	}
 
