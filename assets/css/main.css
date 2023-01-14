@@ -3311,20 +3311,24 @@
 */
 
 /* Cover */
+
+/*
 #cover {
+
 	background-attachment: fixed;
 	background-color: #666;
-	/*background-image: url("images/overlay.png"), url("../../images/bg60.png");*/
+	background-image: url("images/overlay.png"), url("../../images/bg60.png");
 	background-position: top left, center center;
 	background-repeat: repeat, no-repeat;
 	background-size: auto, cover;
 	color: #fff;
 	padding: 12em 0 15em 0;
 	text-align: center;
-}
+}*/
 
-	#cover :last-child {
-		margin-bottom: 0;
+	#cover img {
+		height: 200px;
+		width: 100%;
 	}
 
 	#cover h2, #cover h3, #cover h4, #cover h5, #cover h6, #cover p {
