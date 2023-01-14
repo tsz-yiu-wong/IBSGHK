@@ -2557,6 +2557,7 @@
 			padding-left: 0.25em;
 			font-size: 1.2em;
 			line-height: 1.7em;
+			margin: 0 0 0.3em 0;
 		}
 
 	ul {
@@ -2569,6 +2570,7 @@
 			padding-left: 0.25em;
 			font-size: 1.2em;
 			line-height: 1.7em;
+			margin: 0 0 0.3em 0;
 		}
 
 		ul.alt {
@@ -3310,7 +3312,7 @@
 
 /* Cover */
 #cover {
-	background-attachment: scroll, fixed;
+	background-attachment: fixed;
 	background-color: #666;
 	background-image: url("images/overlay.png"), url("../../images/bg60.png");
 	background-position: top left, center center;
@@ -3346,7 +3348,7 @@
 
 /* Content */
 	#content p {
-		margin: 0.4em 0 0 0;
+		margin: 0.5em 0 0 0;
 	}
 
 	#content p a {
