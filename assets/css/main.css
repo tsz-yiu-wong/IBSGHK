@@ -3314,7 +3314,7 @@
 #cover {
 	background-attachment: fixed;
 	background-color: #666;
-	background-image: url("images/overlay.png"), url("../../images/bg60.png");
+	/*background-image: url("images/overlay.png"), url("../../images/bg60.png");*/
 	background-position: top left, center center;
 	background-repeat: repeat, no-repeat;
 	background-size: auto, cover;
