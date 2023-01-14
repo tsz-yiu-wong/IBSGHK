@@ -3327,7 +3327,7 @@
 }*/
 
 	#cover img {
-		height: 400px;
+		height: 500px;
 		width: 100%;
 	}
 
@@ -3335,7 +3335,7 @@
 		color: #fff;
 		font-size: 3em;
 		line-height: 1em;
-		margin-top: -400px;
+		margin-top: -500px;
 		padding: 100px 100px 50px 100px;
 		text-align: left;
 	}
@@ -3344,8 +3344,8 @@
 		color: #fff;
 		font-size: 2em;
 		line-height: 1em;
+		margin: 0;
 		padding: 0 100px;
-		margin: 0 0 100px 0;
 		text-align: right;
 	}
 
