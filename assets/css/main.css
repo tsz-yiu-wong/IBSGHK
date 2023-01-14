@@ -3327,27 +3327,27 @@
 }*/
 
 	#cover img {
-		height: 200px;
+		height: 500px;
 		width: 100%;
 	}
 
-	#cover h2, #cover h3, #cover h4, #cover h5, #cover h6, #cover p {
+	#cover h2{
 		color: #fff;
-	}
-
-	#cover h2 {
-		font-size: 4em;
+		font-size: 3em;
 		line-height: 1em;
-		margin: 1.8em 0 1.8em 0;
-		padding: 0;
-		text-align: center;
+		margin: -500px;
+		padding: 2em;
+		text-align: left;
 	}
 
-	#cover p {
-		font-size: 1.3em;
-		line-height: 1.4;
-		margin: 0em 18% 0em 18%;
+	#cover h3 {
+		color: #fff;
+		font-size: 2em;
+		line-height: 1em;
+		padding: 0 3em;
+		text-align: right;
 	}
+
 
 
 /* Content */
