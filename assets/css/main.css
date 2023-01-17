@@ -748,7 +748,7 @@
 
 		}*/
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (min-width: 841px) {
 
 			.row {
 				display: flex;
@@ -991,7 +991,7 @@
 						}
 
 		}
-
+/*
 		@media screen and (max-width: 980px) {
 
 			.row {
@@ -1184,10 +1184,6 @@
 							padding-top: 1em;
 						}
 
-				/*.row {
-					margin-top: 0;
-					margin-left: -2em;
-				}*/
 
 					.row > * {
 						padding: 0;
@@ -1235,7 +1231,7 @@
 							padding-top: 4em;
 						}
 
-		}
+		}*/
 
 		@media screen and (max-width: 840px) {
 
@@ -3494,7 +3490,7 @@
 
 /* Normal */
 
-	@media screen and (max-width: 1680px) {
+	@media screen and (min-width: 841px) {
 
 		/* Basic */
 
@@ -3520,15 +3516,6 @@
 
 	}
 
-/* Narrow 
-
-	@media screen and (max-width: 980px) {
-
-			body, input, select, textarea {
-				font-size: 11pt;
-			}
-
-	}*/
 
 /* Narrower */
 
