@@ -507,7 +507,7 @@
 				.row.gtr-200.gtr-uniform > * {
 					padding-top: 4em;
 				}
-
+/*
 		@media screen and (max-width: 1680px) {
 
 			.row {
@@ -700,10 +700,6 @@
 							padding-top: 1em;
 						}
 
-				/*.row {
-					margin: 0 -2.5em -3em -2.5em;
-				}*/
-
 					.row > * {
 						padding: 0;
 					}
@@ -750,7 +746,7 @@
 							padding-top: 4em;
 						}
 
-		}
+		}*/
 
 		@media screen and (max-width: 1280px) {
 
@@ -3482,9 +3478,19 @@
 		}
 */
 
-/* Wide */
+/* Wide 
 
+	@media screen and (max-width: 1680px) {
 
+			body, input, select, textarea {
+				font-size: 11pt;
+			}
+
+			#banner {
+				padding: 10em 0 17em 0;
+			}
+
+	}*/
 
 /* Normal */
 
@@ -3514,17 +3520,15 @@
 
 	}
 
-/* Narrow */
+/* Narrow 
 
 	@media screen and (max-width: 980px) {
-
-		/* Basic */
 
 			body, input, select, textarea {
 				font-size: 11pt;
 			}
 
-	}
+	}*/
 
 /* Narrower */
 
@@ -3863,11 +3867,10 @@
 
 	}
 
-/* Mobile (Portrait) */
+/* Mobile (Portrait) 
 
 	@media screen and (max-width: 480px) {
 
-		/* Basic */
 
 			html, body {
 				min-width: 320px;
@@ -3877,13 +3880,11 @@
 				font-size: 11pt;
 			}
 
-		/* Section/Article */
 
 			header.major {
 				padding: 0;
 			}
 
-		/* List */
 
 			ul.actions {
 				margin: 0 0 2em 0;
@@ -3917,7 +3918,6 @@
 						padding-top: 0;
 					}
 
-		/* Box */
 
 			.box {
 				border-radius: 0;
@@ -3942,23 +3942,11 @@
 					}
 
 
-		/* Banner */
-
 			#banner {
 				padding: 5em 3em 4em 3em;
 			}
 
-		/* Main */
-
 			#main > .box:first-child {
 				margin-top: 0;
 			}
-
-		/* CTA 
-
-			#cta {
-				padding: 2.5em 1em 3em 1em;
-			}
-		*/
-
-	}
+	}*/
