@@ -3041,6 +3041,7 @@
 			position: absolute;
 			right: 0.75em;
 			top: 0;
+			font-size: 0.8em;
 			vertical-align: middle;
 		}
 
@@ -3483,21 +3484,7 @@
 
 /* Wide */
 
-	@media screen and (max-width: 1680px) {
 
-		/* Basic */
-
-			body, input, select, textarea {
-				font-size: 13pt;
-			}
-
-		/* Banner */
-
-			#banner {
-				padding: 10em 0 17em 0;
-			}
-
-	}
 
 /* Normal */
 
