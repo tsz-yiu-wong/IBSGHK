@@ -3149,17 +3149,6 @@
 			font-size: 1.25em;
 		}
 
-			#header.alt a.nav-icon {
-				border-bottom: none;
-			}
-
-			#header.alt a.nav-icon img {
-				height: 70%;
-				position: relative;
-				vertical-align: middle;
-				left: 2em;
-			}
-
 			#header.alt h1 {
 				left: 3.25em;
 			}
