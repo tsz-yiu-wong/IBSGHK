@@ -3025,11 +3025,11 @@
 				border: 0;
 			}
 		
-		#header > a {
+		#header .nav-icon a {
 			border-bottom: none;
 		}
 
-		#header > a > img {
+		#header .nav-icon img {
 			height: 70%;
 			position: relative;
 			vertical-align: middle;
@@ -3148,6 +3148,17 @@
 			top: 1.3em;
 			font-size: 1.25em;
 		}
+
+			#header.alt .nav-icon a {
+				border-bottom: none;
+			}
+
+			#header.alt .nav-icon img {
+				height: 70%;
+				position: relative;
+				vertical-align: middle;
+				left: 2em;
+			}
 
 			#header.alt h1 {
 				left: 3.25em;
