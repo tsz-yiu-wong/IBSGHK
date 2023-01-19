@@ -3025,11 +3025,11 @@
 				border: 0;
 			}
 		
-		#header .nav-icon a {
+		#header a.nav-icon {
 			border-bottom: none;
 		}
 
-		#header .nav-icon img {
+		#header a.nav-icon img {
 			height: 70%;
 			position: relative;
 			vertical-align: middle;
