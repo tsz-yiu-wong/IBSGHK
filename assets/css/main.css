@@ -217,11 +217,11 @@
 	hr {
 		border: 0;
 		border-bottom: solid 2px #000000;
-		margin: 3em 0;
+		margin: 3em auto;
 	}
 
-		hr.major {
-			margin: 3em 0;
+		hr.short {
+			width: 10em;
 		}
 
 	blockquote {
@@ -3247,10 +3247,6 @@
 		padding: 12em 0 15em 0;
 		text-align: center;
 	}
-
-		#banner :last-child {
-			margin-bottom: 0;
-		}
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
 			color: #fff;
