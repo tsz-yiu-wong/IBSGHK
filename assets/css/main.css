@@ -3083,11 +3083,11 @@
 						position: relative;
 					}
 		
-		#header .nav-icon > a {
+		#header .nav-icon a {
 			border-bottom: none;
 		}
 
-		#header .nav-icon > img {
+		#header .nav-icon img {
 			width: 80%;
 			vertical-align: middle;
 			left: 2em;
