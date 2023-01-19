@@ -3034,15 +3034,6 @@
 			font-size: 0.8em;
 			vertical-align: middle;
 		}
-			#header nav > a {
-				border-bottom: none;
-			}
-
-			#header nav > img {
-				width: 80%;
-				vertical-align: middle;
-				left: 2em;
-			}
 
 			#header nav > ul {
 				list-style: none;
@@ -3091,6 +3082,16 @@
 						margin: 0 0 0 0.5em;
 						position: relative;
 					}
+		
+		#header .nav-icon > a {
+			border-bottom: none;
+		}
+
+		#header .nav-icon > img {
+			width: 80%;
+			vertical-align: middle;
+			left: 2em;
+		}
 
 		#header input[type="submit"],
 		#header input[type="reset"],
