@@ -3024,6 +3024,16 @@
 				font-weight: 400;
 				border: 0;
 			}
+		
+		#header > a {
+			border-bottom: none;
+		}
+
+		#header > a > img {
+			width: 80%;
+			vertical-align: middle;
+			left: 2em;
+		}
 
 		#header nav {
 			height: inherit;
@@ -3083,15 +3093,6 @@
 						position: relative;
 					}
 		
-		#header .nav-icon > a {
-			border-bottom: none;
-		}
-
-		#header .nav-icon > a > img {
-			width: 80%;
-			vertical-align: middle;
-			left: 2em;
-		}
 
 		#header input[type="submit"],
 		#header input[type="reset"],
