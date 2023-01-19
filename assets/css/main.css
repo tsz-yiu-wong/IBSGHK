@@ -3030,7 +3030,8 @@
 		}
 
 		#header > a > img {
-			width: 80%;
+			height: 70%;
+			position: relative;
 			vertical-align: middle;
 			left: 2em;
 		}
