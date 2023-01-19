@@ -3149,11 +3149,11 @@
 			font-size: 1.25em;
 		}
 
-			#header.alt .nav-icon a {
+			#header.alt a.nav-icon {
 				border-bottom: none;
 			}
 
-			#header.alt .nav-icon img {
+			#header.alt a.nav-icon img {
 				height: 70%;
 				position: relative;
 				vertical-align: middle;
