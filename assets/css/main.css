@@ -3546,6 +3546,10 @@
 				display: none;
 			}
 
+			hr {
+				width: 80%;
+			}
+
 		/* Section/Article */
 
 			header br {
