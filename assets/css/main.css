@@ -1978,7 +1978,7 @@
 	.container {
 		margin: 0 auto;
 		max-width: calc(100% - 5em);
-		width: 60em;
+		width: 65em;
 	}
 
 		.container.xsmall {
@@ -3282,7 +3282,7 @@
 			font-size: 1.3em;
 			line-height: 1.4;
 			color: rgb(255, 255, 255);
-			margin: 0em 18% 0em 18%;
+			margin: 0em 15% 0em 15%;
 		}
 
 /* Main */
@@ -3523,7 +3523,7 @@
 			}
 
 				#banner h2 {
-					font-size: 3.5em;
+					font-size: 4.5em;
 				}
 
 	}
